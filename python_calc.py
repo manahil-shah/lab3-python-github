@@ -1,5 +1,5 @@
 
-# Feature-rich Calculator
+# simple Calculator
 
 def addition(a, b):
     return a + b
